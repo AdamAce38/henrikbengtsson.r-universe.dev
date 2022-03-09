@@ -217,6 +217,7 @@
     "available": true
   },
 
+
     
   {
     "package": "affxparser",
@@ -241,11 +242,12 @@
   },
 
 
+    
   {
-    "package": "aroma.light",
+    "package": "sfit",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/HenrikBengtsson/sfit",
     "branch": "master",  
     "available": true
-  },
+  }
 ]
