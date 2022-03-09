@@ -2,239 +2,250 @@
   {
     "package": "ACNE",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/acne",
+    "url": "https://github.com/HenrikBengtsson/ACNE",
     "branch": "master",  
     "available": true
   },
   {
     "package": "aroma.affymetrix",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/aroma.affymetrix",
+    "url": "https://github.com/HenrikBengtsson/aroma.affymetrix",
     "branch": "master",  
     "available": true
   },
   {
     "package": "aroma.apd",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/aroma.apd",
+    "url": "https://github.com/HenrikBengtsson/aroma.apd",
     "branch": "master",  
     "available": true
   },
   {
     "package": "aroma.cn",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/aroma.cn",
+    "url": "https://github.com/HenrikBengtsson/aroma.cn",
     "branch": "master",  
     "available": true
   },
   {
     "package": "aroma.core",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/aroma.core",
+    "url": "https://github.com/HenrikBengtsson/aroma.core",
     "branch": "master",  
     "available": true
   },
   {
     "package": "calmate",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/calmate",
+    "url": "https://github.com/HenrikBengtsson/calmate",
     "branch": "master",  
     "available": true
   },
   {
     "package": "dChipIO",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/dchipio",
+    "url": "https://github.com/HenrikBengtsson/dChipIO",
     "branch": "master",  
     "available": true
   },
   {
     "package": "doFuture",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/dofuture",
+    "url": "https://github.com/HenrikBengtsson/doFuture",
     "branch": "master",  
     "available": true
   },
   {
     "package": "future",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/future",
+    "url": "https://github.com/HenrikBengtsson/future",
     "branch": "master",  
     "available": true
   },
   {
     "package": "future.apply",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/future.apply",
+    "url": "https://github.com/HenrikBengtsson/future.apply",
     "branch": "master",  
     "available": true
   },
   {
     "package": "future.batchtools",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/future.batchtools",
+    "url": "https://github.com/HenrikBengtsson/future.batchtools",
     "branch": "master",  
     "available": true
   },
   {
     "package": "future.callr",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/future.callr",
+    "url": "https://github.com/HenrikBengtsson/future.callr",
     "branch": "master",  
     "available": true
   },
   {
     "package": "future.tests",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/future.tests",
+    "url": "https://github.com/HenrikBengtsson/future.tests",
     "branch": "master",  
     "available": true
   },
   {
     "package": "globals",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/globals",
+    "url": "https://github.com/HenrikBengtsson/globals",
     "branch": "master",  
     "available": true
   },
   {
     "package": "listenv",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/listenv",
+    "url": "https://github.com/HenrikBengtsson/listenv",
     "branch": "master",  
     "available": true
   },
   {
     "package": "matrixStats",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/matrixstats",
+    "url": "https://github.com/HenrikBengtsson/matrixStats",
     "branch": "master",  
     "available": true
   },
   {
     "package": "parallelly",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/parallelly",
+    "url": "https://github.com/HenrikBengtsson/parallelly",
     "branch": "master",  
     "available": true
   },
   {
     "package": "profmem",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/profmem",
+    "url": "https://github.com/HenrikBengtsson/profmem",
     "branch": "master",  
     "available": true
   },
   {
     "package": "progressr",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/progressr",
+    "url": "https://github.com/HenrikBengtsson/progressr",
     "branch": "master",  
     "available": true
   },
   {
     "package": "PSCBS",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/pscbs",
+    "url": "https://github.com/HenrikBengtsson/PSCBS",
     "branch": "master",  
     "available": true
   },
   {
     "package": "R.cache",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/r.cache",
+    "url": "https://github.com/HenrikBengtsson/R.cache",
     "branch": "master",  
     "available": true
   },
   {
     "package": "R.devices",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/r.devices",
+    "url": "https://github.com/HenrikBengtsson/R.devices",
     "branch": "master",  
     "available": true
   },
   {
     "package": "R.filesets",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/r.filesets",
+    "url": "https://github.com/HenrikBengtsson/R.filesets",
     "branch": "master",  
     "available": true
   },
   {
     "package": "R.huge",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/r.huge",
+    "url": "https://github.com/HenrikBengtsson/R.huge",
     "branch": "master",  
     "available": true
   },
   {
     "package": "R.matlab",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/r.matlab",
+    "url": "https://github.com/HenrikBengtsson/R.matlab",
     "branch": "master",  
     "available": true
   },
   {
     "package": "R.methodsS3",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/r.methodss3",
+    "url": "https://github.com/HenrikBengtsson/R.methodss3",
     "branch": "master",  
     "available": true
   },
   {
     "package": "R.oo",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/r.oo",
+    "url": "https://github.com/HenrikBengtsson/R.oo",
     "branch": "master",  
     "available": true
   },
   {
     "package": "R.rsp",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/r.rsp",
+    "url": "https://github.com/HenrikBengtsson/R.rsp",
     "branch": "master",  
     "available": true
   },
   {
     "package": "R.utils",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/r.utils",
+    "url": "https://github.com/HenrikBengtsson/R.utils",
     "branch": "master",  
     "available": true
   },
   {
     "package": "startup",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/startup",
+    "url": "https://github.com/HenrikBengtsson/startup",
     "branch": "master",  
     "available": true
   },
   {
     "package": "TopDom",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/topdom",
+    "url": "https://github.com/HenrikBengtsson/TopDom",
     "branch": "master",  
     "available": true
   },
+
+    
   {
     "package": "affxparser",
     "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
-    "url": "https://github.com/henrikbengtsson/affxparser",
+    "url": "https://github.com/HenrikBengtsson/affxparser",
     "branch": "master",  
     "available": true
   },
   {
     "package": "aroma.light",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
-    "url": "https://github.com/henrikbengtsson/aroma.light",
+    "url": "https://github.com/HenrikBengtsson/aroma.light",
     "branch": "master",  
     "available": true
   },
   {
     "package": "illuminaio",
     "maintainer": "Kasper Daniel Hansen <kasperdanielhansen@gmail.com>",
-    "url": "https://github.com/henrikbengtsson/illuminaio",
+    "url": "https://github.com/HenrikBengtsson/illuminaio",
     "branch": "master",  
     "available": true
-  }
+  },
+
+
+  {
+    "package": "aroma.light",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/HenrikBengtsson/sfit",
+    "branch": "master",  
+    "available": true
+  },
 ]
