@@ -119,6 +119,14 @@
     "available": true
   },
   {
+    "package": "port4me",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/HenrikBengtsson/port4me",
+    "subdir": "r",
+    "branch": "main",
+    "available": true
+  },
+  {
     "package": "profmem",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/HenrikBengtsson/profmem",
