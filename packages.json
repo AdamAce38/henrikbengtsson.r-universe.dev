@@ -248,13 +248,17 @@
     "branch": "master",  
     "available": true
   },
-
-
-    
   {
     "package": "sfit",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/HenrikBengtsson/sfit",
+    "branch": "master",  
+    "available": true
+  },
+  {
+    "package": "expectile",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/HenrikBengtsson/expectile",
     "branch": "master",  
     "available": true
   }
