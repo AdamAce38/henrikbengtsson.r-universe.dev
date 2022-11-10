@@ -261,5 +261,12 @@
     "url": "https://github.com/HenrikBengtsson/expectile",
     "branch": "master",  
     "available": true
+  },
+  {
+    "package": "HaarSeg",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/HenrikBengtsson/HaarSeg",
+    "branch": "main",  
+    "available": true
   }
 ]
