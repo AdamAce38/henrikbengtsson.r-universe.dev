@@ -105,6 +105,13 @@
     "available": true
   },
   {
+    "package": "marshal",
+    "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
+    "url": "https://github.com/HenrikBengtsson/marshal",
+    "branch": "main",
+    "available": true
+  },
+  {
     "package": "matrixStats",
     "maintainer": "Henrik Bengtsson <henrikb@braju.com>",
     "url": "https://github.com/HenrikBengtsson/matrixStats",
